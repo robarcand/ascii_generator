@@ -14,3 +14,5 @@ If you already have Python installed on your local machine, follow these instruc
 If you don't have Python installed on your local machine, navigate to [their website](https://www.python.org/downloads/) and follow the instructions to get started.
 
 ![ASCII Generator Example Image](/example-image/ascii-generator-example-image-cat.png)
+
+Happy coding!
